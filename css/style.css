@@ -1,0 +1,40 @@
+body {
+  background: #2F3945;
+}
+
+#calculator {
+  background: #FFF8E1;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+h1 {
+  width: 250px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.2em;
+  color: black;
+  margin-left: 12px;
+}
+
+.display {
+  margin-top: 5px;
+  width: 250px;
+  font-family: 'Share Tech Mono', monospace; 
+  background: white;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+#problem {
+  height: 50px;
+  font-size: 2em; 
+}
+
+button {
+  width: 50px;
+  border: 1px solid black;
+  margin: 8px 5px 8px 5px
+}
